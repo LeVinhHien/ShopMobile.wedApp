@@ -10,10 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Redmed.MD = Redmed.MD
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMobile.Data", "..\ShopMobile.Data\ShopMobile.Data.csproj", "{C93FDEA3-88FE-4CE9-B4FB-CB529EA2249A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopmobile.Application", "..\Shopmobile.Application\Shopmobile.Application.csproj", "{7CE680BF-9201-40C6-8D8B-107695B03949}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,14 +20,6 @@ Global
 		{43FDD9AE-4B97-47A5-A281-6986ED3FB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43FDD9AE-4B97-47A5-A281-6986ED3FB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43FDD9AE-4B97-47A5-A281-6986ED3FB36C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C93FDEA3-88FE-4CE9-B4FB-CB529EA2249A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C93FDEA3-88FE-4CE9-B4FB-CB529EA2249A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C93FDEA3-88FE-4CE9-B4FB-CB529EA2249A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C93FDEA3-88FE-4CE9-B4FB-CB529EA2249A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7CE680BF-9201-40C6-8D8B-107695B03949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CE680BF-9201-40C6-8D8B-107695B03949}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CE680BF-9201-40C6-8D8B-107695B03949}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CE680BF-9201-40C6-8D8B-107695B03949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
